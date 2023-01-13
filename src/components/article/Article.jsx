@@ -1,11 +1,12 @@
 import React from 'react';
+import './article.css'
 
-const App = () => {
+const Article = () => {
     return (
         <div>
-          <h1>GPT3</h1>
+
         </div>
     );
 };
 
-export default App;
+export default Article;
